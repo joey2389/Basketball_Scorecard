@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+
+#el-home{
+margin-top: 10px;
+font-size: 90px;
+color: red;
+   
+}
+
+#el-guest{
+    margin-top: 10px;
+font-size: 90px;
+color: red;
+}
